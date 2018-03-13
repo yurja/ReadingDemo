@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reading</string>
+    <string name="Essay_title">文章标题</string>
+    <string name="Essay_author">作者:</string>
+    <string name="Essay_content">文章详细内容</string>
+    <string name="above_page">上一页</string>
+    <string name="collect">收藏</string>
+    <string name="next_page">下一页</string>
+    <string name="collect_listview">收藏列表</string>
+</resources>
